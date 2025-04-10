@@ -1,1 +1,0 @@
-# RTDOC_EDITOR
