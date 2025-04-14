@@ -1,0 +1,5 @@
+/* Optional Quill Styling Override */
+.ql-container {
+  min-height: 70vh;
+  font-size: 1.1rem;
+}
