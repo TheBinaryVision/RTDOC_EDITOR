@@ -6,6 +6,7 @@ import Login from './pages/Login';
 import Editor from './pages/Editor';
 import axios from 'axios';
 import './styles/App.css'; // Add this import
+import { ChakraProvider } from '@chakra-ui/react';
 
 const App = () => {
   const [user, setUser] = useState(null);

@@ -4,6 +4,7 @@ import Quill from "quill";
 import "quill/dist/quill.snow.css";
 import socket from "../socket";
 import "../styles/Editor.css";
+import React from "react";
 
 
 const SAVE_INTERVAL_MS = 2000;
